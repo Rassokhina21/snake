@@ -1,22 +1,17 @@
-﻿Module Module1
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text
+using System.Threading.Tasks;
 
-    Sub Main()
-
-    End Sub
-
-End Module
-
-
-Namespace Snake
-    {
+Namespace
+{
     Class Program
+    {
+        static void Main( string[] args )
         {
-            static void Main( string[] args )
-            {
-                Console.WriteLine("Hello world");
-                Console.Readline();
-            }
+            Console.WriteLine("Hello World");
+            Concole.ReadLine();
         }
     }
-    End Class
-End Namespace
+}
