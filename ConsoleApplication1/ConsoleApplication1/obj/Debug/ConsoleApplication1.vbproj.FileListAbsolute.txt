@@ -1,0 +1,3 @@
+C:\Users\erassokhina\Desktop\АВТОМАТИЗАЦИЯ\snake.git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\erassokhina\Desktop\АВТОМАТИЗАЦИЯ\snake.git\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\erassokhina\Desktop\АВТОМАТИЗАЦИЯ\snake.git\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
